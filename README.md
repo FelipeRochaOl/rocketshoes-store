@@ -1,6 +1,8 @@
 # Project Ignite Rockets
 
-Challenge 03 rocketseat ignite, [link](https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12)
+Challenge 03 rocketseat ignite, [link](https://rocketstore-felipe-rocha.netlify.app)
+
+Notion: [link](https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12)
 
 [![Watch the video](https://cdn.loom.com/sessions/thumbnails/05198741daff4ca094ddae8146049f60-with-play.gif)
 
